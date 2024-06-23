@@ -1,0 +1,2 @@
+*{margin:0;padding:0;text-decoration:none}.container{display:flex}main{padding:20px;width:100%}.sidebar{background:#000;color:#fff;height:100vh;transition:all .5s;width:200px}.top_section{align-items:center;display:flex;padding:20px 15px}.logo{font-size:30px}.bars{font-size:25px;margin-left:50px}.bars,.link{display:flex}.link{color:#fff;gap:15px;padding:10px 15px;transition:all .5s}.link:hover{transition:all .5s}.active,.link:hover{background:#d3d9dc;color:#000}.icon,.link_text{font-size:20px}html{background-color:#000;color:#fff}
+/*# sourceMappingURL=main.84ab1446.css.map*/
