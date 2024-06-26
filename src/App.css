@@ -3,6 +3,7 @@
     padding:0;
     text-decoration: none;
     background-color: #000;
+    color: white;
 }
 .container{
     display:flex;
@@ -24,6 +25,11 @@ main{
     align-items:center;
     padding:20px 15px;
 }
+.logowd{
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
 .logo{
     font-size: 30px;
 }
@@ -40,14 +46,18 @@ main{
     transition: all 0.5s;
 }
 .link:hover{
-    background:white;
+    background:rgb(29, 16, 16);
     color: white;
-    transition: all 0.5s;
+    transition: all 0.9s;
 }
 .active{
-    background:white;
+    background:rgb(0, 0, 0);
     color: white;
+    
 }
 .icon, .link_text{
     font-size: 20px;
+}
+.mid_section{
+    margin-top: 100px;
 }
